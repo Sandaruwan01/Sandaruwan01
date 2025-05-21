@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Sandaruwan01
-- 👀 I’m interested in new technology 
-- 🌱 I’m currently learning about the softwares 
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me 
+
+👀 I’m passionate about exploring new technologies
+
+🌱 Currently diving deeper into software development
+
+🤝 Open to collaborating on exciting and meaningful projects
+
+📫 Reach me via email or connect on LinkedIn
 
 <!---
 Sandaruwan01/Sandaruwan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
