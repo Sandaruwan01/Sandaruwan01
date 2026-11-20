@@ -13,5 +13,5 @@ Software Engineer with a strong focus on database optimization, automated data p
 ---
 
 💬 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/connectwps) | 
-[Email](mailto:wps.sandaruwanofficial@gmail.com)
-[Portfolio] (connectwps.netlify.app)
+[Email](mailto:wps.sandaruwanofficial@gmail.com) |
+[Portfolio](connectwps.netlify.app)
